@@ -1,0 +1,911 @@
+[
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0002",
+      "branch": "敦南分行",
+      "waitingP": 15,
+      "waitingT": 590
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0020",
+      "branch": "中和分行",
+      "waitingP": 7,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0049",
+      "branch": "永和分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0079",
+      "branch": "景平分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0004",
+      "branch": "新生分行",
+      "waitingP": 5,
+      "waitingT": 315
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0031",
+      "branch": "大安分行",
+      "waitingP": 6,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0092",
+      "branch": "北師分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0073",
+      "branch": "基隆路分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0074",
+      "branch": "新店分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0111",
+      "branch": "文山分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0070",
+      "branch": "北新店分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北一區",
+      "groupId": "11",
+      "branchId": "0113",
+      "branch": "景美分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },        
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0062",
+      "branch": "敦北分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0043",
+      "branch": "民生分行",
+      "waitingP": 6,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0011",
+      "branch": "南東分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0088",
+      "branch": "南松山分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0048",
+      "branch": "內湖分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0055",
+      "branch": "大直分行",
+      "waitingP": 7,
+      "waitingT": 420
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0110",
+      "branch": "東湖分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0099",
+      "branch": "南港分行",
+      "waitingP": 5,
+      "waitingT": 555
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0063",
+      "branch": "忠孝分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0097",
+      "branch": "松德分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0026",
+      "branch": "信義分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0090",
+      "branch": "東基隆分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0084",
+      "branch": "汐止分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0023",
+      "branch": "花蓮分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北二區",
+      "groupId": "12",
+      "branchId": "0109",
+      "branch": "羅東分行",
+      "waitingP": 7,
+      "waitingT": 540
+    },        
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0001",
+      "branch": "營業部",
+      "waitingP": 5,
+      "waitingT": 360
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0017",
+      "branch": "天母分行",
+      "waitingP": 5,
+      "waitingT": 360
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0086",
+      "branch": "石牌分行",
+      "waitingP": 5,
+      "waitingT": 420
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0089",
+      "branch": "淡水分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0077",
+      "branch": "延平分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0061",
+      "branch": "西門分行",
+      "waitingP": 9,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0041",
+      "branch": "建橋分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0082",
+      "branch": "松江分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0068",
+      "branch": "建北分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北三區",
+      "groupId": "13",
+      "branchId": "0064",
+      "branch": "復興分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },        
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0091",
+      "branch": "新板分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0094",
+      "branch": "江翠分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0065",
+      "branch": "板南分行",
+      "waitingP": 7,
+      "waitingT": 360
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0008",
+      "branch": "板橋分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0040",
+      "branch": "古亭分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0045",
+      "branch": "和平分行",
+      "waitingP": 13,
+      "waitingT": 495
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0056",
+      "branch": "南門分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0005",
+      "branch": "新莊分行",
+      "waitingP": 7,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0047",
+      "branch": "南新莊分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0112",
+      "branch": "副都心",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0016",
+      "branch": "蘆洲分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0069",
+      "branch": "三和分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "北區",
+      "group": "北四區",
+      "groupId": "14",
+      "branchId": "0028",
+      "branch": "三重分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },        
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0006",
+      "branch": "桃園分行",
+      "waitingP": 7,
+      "waitingT": 420
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0075",
+      "branch": "北桃園分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0078",
+      "branch": "南崁分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0012",
+      "branch": "中壢分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0103",
+      "branch": "八德分行",
+      "waitingP": 13,
+      "waitingT": 601
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0032",
+      "branch": "龍潭分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0098",
+      "branch": "北大分行",
+      "waitingP": 7,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0102",
+      "branch": "南寮分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0024",
+      "branch": "新竹分行",
+      "waitingP": 7,
+      "waitingT": 420
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0101",
+      "branch": "竹北分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0085",
+      "branch": "成功分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0052",
+      "branch": "竹科分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0108",
+      "branch": "竹南分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "桃竹區",
+      "groupId": "21",
+      "branchId": "0100",
+      "branch": "關東橋分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },        
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0027",
+      "branch": "北台中分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0083",
+      "branch": "大雅分行",
+      "waitingP": 7,
+      "waitingT": 420
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0044",
+      "branch": "太平分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0022",
+      "branch": "豐原分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0018",
+      "branch": "大里分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0104",
+      "branch": "員林分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0037",
+      "branch": "彰化分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0007",
+      "branch": "台中分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0066",
+      "branch": "民權分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0107",
+      "branch": "沙鹿分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0051",
+      "branch": "逢甲分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0105",
+      "branch": "市府分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0076",
+      "branch": "大墩分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0080",
+      "branch": "文心分行",
+      "waitingP": 2,
+      "waitingT": 915
+    },
+    {
+      "district": "中區",
+      "group": "中彰區",
+      "groupId": "22",
+      "branchId": "0054",
+      "branch": "南屯分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },        
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0010",
+      "branch": "台南分行",
+      "waitingP": 9,
+      "waitingT": 480
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0029",
+      "branch": "永福分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0093",
+      "branch": "永華分行",
+      "waitingP": 25,
+      "waitingT": 420
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0034",
+      "branch": "金華分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0035",
+      "branch": "後甲分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0071",
+      "branch": "府城分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0033",
+      "branch": "崇德分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0021",
+      "branch": "嘉義分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0087",
+      "branch": "永康分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "嘉南區",
+      "groupId": "31",
+      "branchId": "0036",
+      "branch": "海佃分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },        
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0015",
+      "branch": "苓雅分行",
+      "waitingP": 10,
+      "waitingT": 660
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0038",
+      "branch": "五甲分行",
+      "waitingP": 7,
+      "waitingT": 360
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0114",
+      "branch": "雄科分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0025",
+      "branch": "七賢分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0072",
+      "branch": "東高雄分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0009",
+      "branch": "高雄分行",
+      "waitingP": 7,
+      "waitingT": 360
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0046",
+      "branch": "北高雄分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0106",
+      "branch": "右昌分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0081",
+      "branch": "岡山分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0039",
+      "branch": "鳳山分行",
+      "waitingP": 7,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0067",
+      "branch": "三民分行",
+      "waitingP": 5,
+      "waitingT": 300
+    },
+    {
+      "district": "南區",
+      "group": "高屏區",
+      "groupId": "32",
+      "branchId": "0030",
+      "branch": "屏東分行",
+      "waitingP": 8,
+      "waitingT": 600
+    }
+  ]
